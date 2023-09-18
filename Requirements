@@ -1,0 +1,4 @@
+Item #	Requirements
+1	Designed in line with requirements that will be supplied by the key staff.
+2	Hosted internally at a primary site at head office, with a secondary site set up at the distribution centre, which is geographically separate from the head office.
+3	Highly scalable, initially supporting at least 2000 transactions a week but able to scale up to supporting an excess of 60,000 transactions per week.
